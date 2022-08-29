@@ -23,6 +23,7 @@
  <div align=center>
  <h2>:pencil2: Studying </h2> <br>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
  
  </div>
  
