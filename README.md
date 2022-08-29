@@ -15,14 +15,14 @@
 ##
 <div align=center>
  <h2>:ghost: Skill </h2> <br>
-<img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+<a><img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
  
  </div>
  
  
  <div align=center>
  <h2>:pencil2: Studying </h2> <br>
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+ <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  
  </div>
