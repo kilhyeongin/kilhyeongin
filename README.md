@@ -5,4 +5,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj={kilhyeongin})](https://solved.ac/{kilhyeongin})<br/>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkilhyeongin%2Fhit-counter&count_bg=%2394B8F5&title_bg=%23ACA9A9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkilhyeongin%2Fhit-counter&count_bg=%23FF4444&title_bg=%232CC7FF&icon=&icon_color=%23000000&title=%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
