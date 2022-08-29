@@ -11,8 +11,26 @@
   <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilhyeongin&show_icons=true&theme=radical)
 </div>
+
+##
 <div align=center>
- <h2>:ghost:Skill </h2> <br>
+ <h2>:ghost: Skill </h2> <br>
+ <img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=React&logoColor=white"/>
+ 
+ </div>
+ 
+ 
+ <div align=center>
+ <h2>:pencil2: Studying </h2> <br>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+ 
+ </div>
+ 
+
+ 
+ 
+ <div align=center>
+ <h2>:octocat: Me :dash:</h2> <br>
  
 <a href="https://www.instagram.com/kil_hy_in/" target="_blank"><img src="https://img.shields.io/badge/kil_hy_in-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
@@ -20,4 +38,5 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkilhyeongin%2Fhit-counter&count_bg=%23FF4444&title_bg=%23FF7777&icon=&icon_color=%23000000&title=%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+
+ </div>
